@@ -1,45 +1,40 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Jialuo Liu"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Ph.D. Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Colorado State University", url = "https://www.colostate.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include spatial statistics, spatio-temporal statistics and computational statistics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "jialuo.liu@colostate.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Spatio-temporal Statistics",
+  "Computational Statistics",
+  "Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Statistics"
+  institution = "Colorado State University"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Statistics"
+  institution = "University of Science and Technology of China"
+  year = 2014
 
 # Social/Academic Networking
 #
@@ -62,22 +57,19 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:jialuo.liu@colostate.edu".
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://www.linkedin.com/in/jialuo-liu-a3819086/"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/liujl93"
+
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -85,9 +77,9 @@ interests = [
 #   icon = "cv"
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
+#My research broadly focuses on the interplay between statistics, probability, and computation, particularly as they apply to high-dimensional Bayesian models and Monte Carlo methods. I enjoy working on both theoretical and applied projects, and find them to often illuminate each other.
 
+#I spent the 2018 summer working as a research intern at Oculus Research, in the eye-tracking team. Before coming to Stanford, I received a Masters in Mathematics and BSc in Economics, both from PUC-Rio, in Brazil.
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a fifth-year PhD student in the Department of Statistics at Colorado State University, advised by Haonan Wang.
