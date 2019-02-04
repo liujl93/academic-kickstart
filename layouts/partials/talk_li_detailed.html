@@ -1,0 +1,39 @@
+
+<div class="card-simple" itemscope itemtype="http://schema.org/Event">
+  <h3 class="article-title" itemprop="name">
+    <a href="{{ .RelPermalink }}" itemprop="url">{{ .Title }}</a>
+  </h3>
+
+  {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ $anchor := .Params.image.focal_point | default "Smart" }}
+  {{ with $resource }}
+  {{ $image := .Fill (printf "918x600 q100 %s" $anchor) }}
+  <div>
+    <a href="{{ $.RelPermalink }}">
+      <img src="{{ $image.RelPermalink }}" class="article-banner" itemprop="image" alt="">
+    </a>
+  </div>
+  {{end}}
+
+
+  <div class="talk-metadata">
+    {{ if .Params.event }}
+    {{ .Params.event | markdownify }}
+    {{ else if .Params.event_short }}
+    {{ .Params.event_short | markdownify }}
+    {{ end }}
+  </div>
+
+  <div class="talk-abstract" itemprop="text">
+    {{ if .Params.abstract_short }}
+    {{ .Params.abstract_short | markdownify }}
+    {{ else }}
+    {{ .Params.abstract | markdownify }}
+    {{ end }}
+  </div>
+
+  <div class="btn-links">
+    {{ partial "page_links" (dict "content" . "is_list" 1) }}
+  </div>
+
+</div>

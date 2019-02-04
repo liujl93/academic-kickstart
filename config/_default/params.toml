@@ -1,6 +1,4 @@
 # SITE SETUP
-# Documentation: https://sourcethemes.com/academic/
-
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
 color_theme = "default"
@@ -9,7 +7,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -61,7 +59,7 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "jialuo.liu@colostate.edu"
+  email = "liujl@rams.colostate.edu"
   address = "305 Statistics Building, Coloroda State University, Colorado, 80523, USA"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   phone = ""
@@ -125,7 +123,7 @@ custom_js  = []
 # Configuration of talk pages.
 [talks]
   # Show talk time?
-  time = true
+  time = false
 
 # Configuration of publication pages.
 [publications]

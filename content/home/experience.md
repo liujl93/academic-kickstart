@@ -28,9 +28,9 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Helped researchers to assess research objectives, identify possible statistical issues and propose appropriate models  to ensure the validity of statistical methods.
+  * Analyzed complex data sets from clients to create clear and compelling reports and visualizations.
+  * Cleaned data, provided software support (e.g., R, SAS, and JMP), and evaluated the results for the clients.
   """
 
 [[experience]]
@@ -40,6 +40,6 @@ date_format = "January 2006"
   location = "Master of Applied Statistics (M.A.S.) Program"
   date_start = "2016-01-15"
   date_end = "2019-05-15"
-  description = """Distance Coordinator. """
+  description = """Provided course specific advice to master students on a variety of graduate-level courses including experimental design, mixed models, statistical learning and data mining."""
 
 +++
