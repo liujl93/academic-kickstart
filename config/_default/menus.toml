@@ -9,37 +9,39 @@
   weight = 1
 
 [[main]]
-  name = "Projects"
-  url = "#talks"
+  name = "Research"
+  url = "/project"
   weight = 2
 
 [[main]]
-    name = "Computing"
-    url = "#posts"
+    name = "Posts"
+    url = "/post"
     weight = 3
-[[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 4
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 4
 
-[[main]]
-  name = "Awards"
-  url = "#accomplishments"
-  weight = 6
+#[[main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 7
+#[[main]]
+#  name = "Awards"
+#  url = "#accomplishments"
+#  weight = 6
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "Resume"
-  url = "files/jialuo_liu_resume.pdf"
-  weight = 7
+  name = "Photography"
+  url = "https://unsplash.com/@lolofter"
+  weight = 4
+#  url = "files/jialuo_liu_resume.pdf"

@@ -19,7 +19,7 @@ I am a teaching instructor for the following courses at Colorado State Universit
 
 - **STAT 201: General Statistics**. *Summer 2017, Summer 2018*.
 
-I am a online course coordinator for the following courses at Colorado State University:
+I am an online course coordinator for the following courses at Colorado State University:
 
 - **STAA 551: Regression Models and Applications**, *Spring 2019*.
 - **STAT 512: Design and Data Analysis for Researchers II**, *Spring 2019*.

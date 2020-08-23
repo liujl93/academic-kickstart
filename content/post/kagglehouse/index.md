@@ -1,0 +1,35 @@
++++
+title = "Kaggle Project: House Prices (Advanced Regression Techniques) "
+subtitle = "A stacking approach for prediction"
+date = 2019-02-04T15:13:16-07:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Jialuo Liu"]
+
+tags = ["Regression", "Python","XGBoost","Stacking"]
+summary = "A stacking approach for prediction"
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+categories = []
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
+Please refer to this [notebook](http://liujl93.github.io/files/kaggleHP.html).

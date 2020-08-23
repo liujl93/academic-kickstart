@@ -6,7 +6,7 @@ name = "Jialuo Liu"
 superuser = true
 
 # Role/position
-role = "Ph.D. Candidate"
+role = "Ph.D. in Statistics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -69,20 +69,23 @@ interests = [
   icon_pack = "fab"
   link = "https://github.com/liujl93"
 
-
-
+[[social]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  link = "https://unsplash.com/@lolofter"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #[[social]]
 #   icon = "CV"
 #   icon_pack = "ai"
 #   link = "files/jialuo_liu_resume.pdf"
-#My research broadly focuses on the interplay between statistics, probability, and computation, particularly as they apply to high-dimensional Bayesian models and Monte Carlo methods. I enjoy working on both theoretical and applied projects, and find them to often illuminate each other.
+#My doctoral research focuses on 1) developing statistical and mathematical methodologies and theory for analyzing spatial and spatio-temporal data; 2) investigating computationally intensive algorithms to compute maximum likelihood estimates for a class of spatial models; 3) applying methodologies to solve statistical problems that arise in environmental sciences and public health.
 
-#I spent the 2018 summer working as a research intern at Oculus Research, in the eye-tracking team. Before coming to Stanford, I received a Masters in Mathematics and BSc in Economics, both from PUC-Rio, in Brazil.
 +++
 
-I am a fifth-year PhD student in the [Department of Statistics](http://statistics.colostate.edu/) at Colorado State University, advised by [Dr. Haonan Wang](https://www.stat.colostate.edu/~wanghn/).
+I received my Ph.D. in Statistics at Colorado State University, where I was fortunate to be advised by [Dr. Haonan Wang](https://www.stat.colostate.edu/~wanghn/).
 Before coming to CSU, I received my Bachelor’s Degree in Statistics from the [University of Science and Technology of China](http://en.ustc.edu.cn/index.html).
 
-My doctoral research focuses on 1) developing statistical and mathematical methodologies and theory for analyzing spatial and spatio-temporal data; 2) investigating computationally intensive algorithms to compute maximum likelihood estimates for a class of spatial models; 3) applying methodologies to solve statistical problems that arise in environmental sciences and public health. I enjoy working on theory, algorithm and practice of statistical methods and find them to often inspire each other. I am also involved in exciting interdisciplinary collaborations here at CSU with ecologists, aimed at quantifying the influence of landscape complexity on species diversity of spiders.
+My doctoral research focuses on 1) developing statistical and mathematical methodologies and theory for analyzing spatial and spatio-temporal data; 2) investigating computationally intensive algorithms to compute maximum likelihood estimates for a class of spatial models; 3) applying methodologies to solve statistical problems that arise in environmental sciences and public health.
+
+I enjoy working on theory, algorithm and practice of statistical methods and find them to often inspire each other. I am also involved in exciting interdisciplinary collaborations here at CSU with ecologists, aimed at quantifying the influence of landscape complexity on species diversity of spiders.

@@ -76,7 +76,7 @@ image = "theme-cupcake.png"
 caption = "Cupcake"
 +++
 
-This post is related to a short course [High Performance Computing for Spatial Data](http://blue.for.msu.edu/envr18/) taught by [Dr. Andrew Finley](http://blue.for.msu.edu/) and Dr. Dorit Hammerling at [2018 ENVR Workshop](https://community.amstat.org/envr/events/envr2018workshop). An useful slide can be found [here](http://blue.for.msu.edu/envr18/slides/R-api.pdf).
+This post is related to a short course [High Performance Computing for Spatial Data](http://blue.for.msu.edu/envr18/) taught by [Dr. Andrew Finley](http://blue.for.msu.edu/) and Dr. Dorit Hammerling at [2018 ENVR Workshop](https://community.amstat.org/envr/events/envr2018workshop). A useful slide can be found [here](http://blue.for.msu.edu/envr18/slides/R-api.pdf).
 
 There are three functions for integrating R and C/C++:
 
@@ -99,6 +99,7 @@ In this short course, a detailed explanation of the function .Call() is given. I
 ```{r}
             dyn.load("filename.so")
 ```
+Refer to this [notebook](http://liujl93.github.io/files/exercise_1a.html) for a complete implementation.
 
 ## .C()
 A good implementation of the function .C() can be found in the R package [bdmiso](https://www.stat.colostate.edu/~wanghn/Rpackages/bdmiso_0.9.tar.gz), which is developed by Dr. Ela Sienkiewicz from CSU.

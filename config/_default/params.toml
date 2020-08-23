@@ -60,7 +60,7 @@ gravatar = false
 
 # Contact Widget setup
   email = "liujl@rams.colostate.edu"
-  address = "305 Statistics Building, Coloroda State University, Colorado, 80523, USA"
+  address = "305 Statistics Building, Colorado State University, Colorado, 80523, USA"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   phone = ""
   skype = ""
